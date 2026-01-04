@@ -4,23 +4,23 @@ This repository contains a collection of exercises and projects developed during
 
 ## 🎯 Learning Objectives
 * Mastered core Python syntax and logic.
-* [cite_start]Implemented data structures (Lists, Dictionaries, Tuples). [cite: 2, 5]
-* [cite_start]Developed modular code using functions and control flow (Loops, Conditionals). [cite: 1, 3, 4]
-* [cite_start]Used standard libraries like `datetime` for real-world applications. 
+* Implemented data structures (Lists, Dictionaries, Tuples).
+* Developed modular code using functions and control flow (Loops, Conditionals).
+* Used standard libraries like `datetime` for real-world applications. 
 
 ## 📁 Repository Structure
 
 ### 1. Exercises
-* [cite_start]**basic_conditionals.py**: Logic to validate user input within specific ranges. [cite: 1]
-* **data_structures_list.py**: A dynamic shopping list manager using list operations. [cite: 2]
-* [cite_start]**basic_functions.py**: A multi-operation calculator demonstrating functional programming. [cite: 3]
-* **loops_practice.py**: Simple automation of text repetition using `for` loops. [cite: 4]
+* [basic_conditionals.py](./Exercises/basic_conditionals.py): Logic to validate user input within specific ranges (1-100).
+* [data_structures_list.py](./Exercises/data_structures_list.py): A dynamic shopping list manager using list operations and input validation.
+* [basic_functions.py](./Exercises/basic_functions.py): A multi-operation calculator demonstrating functional programming and error handling.
+* [loops_practice.py](./Exercises/loops_practice.py): Simple automation of text repetition using for loops.
 
 ### 2. Projects
-* **Pet Store Simulator (`tienda.py`)**: A comprehensive console application that manages: 
-    * [cite_start]Inventory management using Dictionaries. 
-    * [cite_start]User interaction and menu-driven logic. 
-    * Transaction logging with timestamps using the `datetime` module. 
+* [pet_store_simulator.py](./Projects/pet_store_simulator.py): A comprehensive console application that manages:
+    * Inventory management using Dictionaries.
+    * Transaction logging with timestamps using the `datetime` module.
+    * User-driven interaction menus.
 
 ## 🚀 Future Updates
 * [ ] **Final Course Project**: Currently in development. To be uploaded soon!
