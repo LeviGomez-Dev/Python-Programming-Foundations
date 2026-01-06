@@ -22,8 +22,14 @@ This repository contains a collection of exercises and projects developed during
     * Transaction logging with timestamps using the `datetime` module.
     * User-driven interaction menus.
 
-## 🚀 Future Updates
-* [ ] **Final Course Project**: Currently in development. To be uploaded soon!
+### 3. Final Course Project: HR Management System (RRHH)
+* [main.py](./Projects/Final_project/main.py) & [rrhh.py](./Projects/Final_project/rrhh.py): A modular backend system for corporate employee management.
+
+**Key Features:**
+* **Architecture:** Modular design separating logic (`rrhh.py`) from interface (`main.py`).
+* **Data Handling:** Implemented **Nested Dictionaries** for efficient data storage and retrieval.
+* **Logic:** Robust input validation (`try/except`, `while` loops), business logic for hiring/firing, and financial calculations (total payroll).
+* **Security:** Defensive programming to handle edge cases and user errors.
 
 ---
-*Status: Course in progress (Early 2026).*
+*Status: Course completed! 🎓 (January 2026).*
